@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": "shivam",
+      "password": "12345",
+      "email": "shiva@gmail.com"
+    },
+    {
+      "id": "Ajit",
+      "password": "12345",
+      "email": "ajit@gmail.com"
+    },
+    {
+      "id": "Ajitkumar",
+      "password": "12345",
+      "email": "ajit@gmail.com"
+    }
+  ],
+  "employees": [
+    {
+      "Image": "Image",
+      "name": "Bambam",
+      "Desigination": "Manager",
+      "Gender": "m",
+      "course": "Mca",
+      "email": "bambam@gmail.com",
+      "Create date": "",
+      "id": "1"
+    },
+    {
+      "Image": "Image",
+      "name": "Sayaam",
+      "Desigination": "sales",
+      "Gender": "m",
+      "course": "Bsc",
+      "email": "sayaam@gmail.com",
+      "Create date": "",
+      "id": "2"
+    },
+    {
+      "Image": "Image",
+      "name": "Sayaam",
+      "Desigination": "sales",
+      "Gender": "m",
+      "course": "Bsc",
+      "email": "sayaam@gmail.com",
+      "Create date": "",
+      "id": "3"
+    },
+    {
+      "Image": "Image",
+      "name": "Ajit",
+      "Desigination": "hr",
+      "Gender": "m",
+      "course": "course",
+      "email": "suraj@gmail.com",
+      "Create date": "9956976967",
+      "id": "4"
+    }
+  ]
+}
